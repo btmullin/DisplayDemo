@@ -2,4 +2,4 @@
 hardware/**/*-backups
 hardware/**/#auto*
 hardware/**/_auto*
-hardware/fp-info-cache
+hardware/**/fp-info-cache
